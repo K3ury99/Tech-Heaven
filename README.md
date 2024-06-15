@@ -16,7 +16,7 @@ TechHeaven is an e-commerce platform designed for the online sale of technology 
 To start using the projects, clone the repository and open `TechHeaven.sln` in Visual Studio. Set up connection strings and any other specific configurations before running the solution.
 
 ## `Contribute` 🔗
-Contributions are welcome. Please read `CONTRIBUTING.md` for more details on how to contribute to the project.
+Contributions are welcome. 
 
 ## `License` 🎇
 This project is under the MIT license. See the `LICENSE.md` file for more details.
