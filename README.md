@@ -1,9 +1,9 @@
 # Banco
 
-## Descripción
+`## Descripción`
 Banco es una solución de software diseñada para la gestión integral de operaciones bancarias. Esta solución sigue una arquitectura de microservicios para promover la escalabilidad y el mantenimiento eficiente.
 
-## Componentes
+`## Componentes`
 
 ### Banco.Api
 `Banco.Api` sirve como la interfaz principal para las interacciones con el cliente, procesando las solicitudes y respuestas entre el usuario y los servicios del banco.
@@ -23,7 +23,7 @@ Banco es una solución de software diseñada para la gestión integral de operac
 ### Banco.WebApi
 `Banco.WebApi` expone los servicios web del banco, permitiendo la integración con otras aplicaciones y servicios a través de APIs.
 
-## Uso
+`## Uso`
 Para comenzar a utilizar los proyectos, clona el repositorio y abre `Banco.sln` en Visual Studio. Configura las cadenas de conexión y cualquier otra configuración específica antes de ejecutar la solución.
 
 ## Contribuir
