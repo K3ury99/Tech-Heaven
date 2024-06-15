@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\TechHeaven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA621486-E985-4E6B-9D5C-7AFAE863D7B8}|Tienda.Ioc\\Tienda.Ioc.csproj|c:\\users\\keury\\desktop\\clases\\itla\\4to - cuatrimestre\\programaci\u00F3n 2\\proyectos\\tarea 5\\techheaven\\tienda.ioc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA621486-E985-4E6B-9D5C-7AFAE863D7B8}|Tienda.Ioc\\Tienda.Ioc.csproj|solutionrelative:tienda.ioc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\keury\\desktop\\clases\\itla\\4to - cuatrimestre\\programaci\u00F3n 2\\proyectos\\tarea 5\\techheaven\\tienda.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|c:\\users\\keury\\desktop\\clases\\itla\\4to - cuatrimestre\\programaci\u00F3n 2\\proyectos\\tarea 5\\techheaven\\tienda.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C006480A-53B1-4479-8E27-AD381B6CFE49}|Tienda.Domain\\Tienda.Domain.csproj|c:\\users\\keury\\desktop\\clases\\itla\\4to - cuatrimestre\\programaci\u00F3n 2\\proyectos\\tarea 5\\techheaven\\tienda.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C006480A-53B1-4479-8E27-AD381B6CFE49}|Tienda.Domain\\Tienda.Domain.csproj|solutionrelative:tienda.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\TechHeaven\\Tienda.Ioc\\Class1.cs",
+              "RelativeDocumentMoniker": "Tienda.Ioc\\Class1.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\TechHeaven\\Tienda.Ioc\\Class1.cs",
+              "RelativeToolTip": "Tienda.Ioc\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:19:03.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\TechHeaven\\Tienda.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\TechHeaven\\Tienda.Application\\Class1.cs",
+              "RelativeToolTip": "Tienda.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:16:13.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\TechHeaven\\Tienda.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Tienda.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\TechHeaven\\Tienda.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Tienda.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:15:49.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\TechHeaven\\Tienda.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Tienda.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\TechHeaven\\Tienda.Domain\\Class1.cs",
+              "RelativeToolTip": "Tienda.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:15:25.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
