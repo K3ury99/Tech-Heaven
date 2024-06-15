@@ -3,7 +3,7 @@
 ## `Description`
 TechHeaven is an e-commerce platform designed for the online sale of technology products. This solution follows a microservices architecture to promote scalability and efficient maintenance.
 
-## `Components`
+## `Components` 🛠
 
 - **Tienda.Api**: Serves as the main interface for customer interactions, processing requests and responses between the user and the store services.
 - **Tienda.Application**: Contains the core business logic and store operations. It is the core that processes orders and maintains business rules.
@@ -12,11 +12,11 @@ TechHeaven is an e-commerce platform designed for the online sale of technology 
 - **Tienda.Web**: Is the presentation layer that provides the user interface to interact with store services through a web browser.
 - **Tienda.Ioc**: Manages dependencies and control injections among different components and services of the project.
 
-## `Usage`
+## `Usage` ♟
 To start using the projects, clone the repository and open `TechHeaven.sln` in Visual Studio. Set up connection strings and any other specific configurations before running the solution.
 
-## `Contribute`
+## `Contribute` 🔗
 Contributions are welcome. Please read `CONTRIBUTING.md` for more details on how to contribute to the project.
 
-## `License`
+## `License` 🎇
 This project is under the MIT license. See the `LICENSE.md` file for more details.
