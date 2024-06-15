@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B40113CB-E29E-4C41-9528-FD9358E7BE54}|Banco.Application\\Banco.Application.csproj|c:\\users\\keury\\desktop\\clases\\itla\\4to - cuatrimestre\\programaci\u00F3n 2\\proyectos\\tarea 5\\banco\\banco.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40113CB-E29E-4C41-9528-FD9358E7BE54}|Banco.Application\\Banco.Application.csproj|solutionrelative:banco.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FD9CB8-80E8-4120-9F61-B5F5F304A9A1}|Banco.Infrastructure\\Banco.Infrastructure.csproj|c:\\users\\keury\\desktop\\clases\\itla\\4to - cuatrimestre\\programaci\u00F3n 2\\proyectos\\tarea 5\\banco\\banco.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FD9CB8-80E8-4120-9F61-B5F5F304A9A1}|Banco.Infrastructure\\Banco.Infrastructure.csproj|solutionrelative:banco.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97580FF2-74AD-4F2C-8AEF-67D35936F646}|Banco.Domain\\Banco.Domain.csproj|c:\\users\\keury\\desktop\\clases\\itla\\4to - cuatrimestre\\programaci\u00F3n 2\\proyectos\\tarea 5\\banco\\banco.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97580FF2-74AD-4F2C-8AEF-67D35936F646}|Banco.Domain\\Banco.Domain.csproj|solutionrelative:banco.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\Banco\\Banco.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Banco.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\Banco\\Banco.Application\\Class1.cs",
+              "RelativeToolTip": "Banco.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T16:50:42.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\Banco\\Banco.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Banco.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\Banco\\Banco.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Banco.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T16:50:16.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\Banco\\Banco.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Banco.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programaci\u00F3n 2\\Proyectos\\Tarea 5\\Banco\\Banco.Domain\\Class1.cs",
+              "RelativeToolTip": "Banco.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T16:49:49.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

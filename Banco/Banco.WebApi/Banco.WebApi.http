@@ -1,0 +1,6 @@
+@Banco.WebApi_HostAddress = http://localhost:5167
+
+GET {{Banco.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
