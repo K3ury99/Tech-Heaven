@@ -1,0 +1,12 @@
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\bin\Debug\net8.0\Tienda.Ioc.deps.json
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\bin\Debug\net8.0\Tienda.Ioc.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\bin\Debug\net8.0\Tienda.Ioc.pdb
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\Tienda.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\Tienda.Ioc.AssemblyInfoInputs.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\Tienda.Ioc.AssemblyInfo.cs
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\Tienda.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\Tienda.Ioc.sourcelink.json
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\Tienda.Ioc.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\refint\Tienda.Ioc.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\Tienda.Ioc.pdb
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\ref\Tienda.Ioc.dll

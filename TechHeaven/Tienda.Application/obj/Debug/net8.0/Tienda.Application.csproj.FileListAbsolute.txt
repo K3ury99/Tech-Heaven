@@ -1,0 +1,12 @@
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\bin\Debug\net8.0\Tienda.Application.deps.json
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\bin\Debug\net8.0\Tienda.Application.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\bin\Debug\net8.0\Tienda.Application.pdb
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\Tienda.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\Tienda.Application.AssemblyInfoInputs.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\Tienda.Application.AssemblyInfo.cs
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\Tienda.Application.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\Tienda.Application.sourcelink.json
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\Tienda.Application.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\refint\Tienda.Application.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\Tienda.Application.pdb
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\ref\Tienda.Application.dll

@@ -1,0 +1,15 @@
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\bin\Debug\net8.0\Tienda.Domain.deps.json
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\bin\Debug\net8.0\Tienda.Domain.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\bin\Debug\net8.0\Tienda.Domain.pdb
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\obj\Debug\net8.0\Tienda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\obj\Debug\net8.0\Tienda.Domain.AssemblyInfoInputs.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\obj\Debug\net8.0\Tienda.Domain.AssemblyInfo.cs
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\obj\Debug\net8.0\Tienda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\obj\Debug\net8.0\Tienda.Domain.sourcelink.json
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\obj\Debug\net8.0\Tienda.Domain.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\obj\Debug\net8.0\refint\Tienda.Domain.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\obj\Debug\net8.0\Tienda.Domain.pdb
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\obj\Debug\net8.0\ref\Tienda.Domain.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\bin\Debug\net8.0\Tienda.Domain.runtimeconfig.json
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\obj\Debug\net8.0\Tienda.Domain.csproj.AssemblyReference.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Domain\obj\Debug\net8.0\Tienda.Domain.genruntimeconfig.cache

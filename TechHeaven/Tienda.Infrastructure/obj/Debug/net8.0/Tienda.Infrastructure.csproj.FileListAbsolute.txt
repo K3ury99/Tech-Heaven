@@ -1,0 +1,13 @@
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\bin\Debug\net8.0\Tienda.Infrastructure.deps.json
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\bin\Debug\net8.0\Tienda.Infrastructure.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\bin\Debug\net8.0\Tienda.Infrastructure.pdb
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.Infrastructure.AssemblyInfo.cs
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.Infrastructure.sourcelink.json
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.Infrastructure.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\refint\Tienda.Infrastructure.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.Infrastructure.pdb
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\ref\Tienda.Infrastructure.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.Infrastructure.csproj.AssemblyReference.cache

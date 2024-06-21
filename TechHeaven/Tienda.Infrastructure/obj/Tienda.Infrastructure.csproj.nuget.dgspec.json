@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programación 2\\Proyectos\\Tarea 5\\TechHeaven\\Tienda.Infrastructure\\Tienda.Infrastructure.csproj": {}
+    "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Tienda.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programación 2\\Proyectos\\Tarea 5\\TechHeaven\\Tienda.Infrastructure\\Tienda.Infrastructure.csproj": {
+    "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Tienda.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programación 2\\Proyectos\\Tarea 5\\TechHeaven\\Tienda.Infrastructure\\Tienda.Infrastructure.csproj",
-        "projectName": "Tienda.Infrastructure",
-        "projectPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programación 2\\Proyectos\\Tarea 5\\TechHeaven\\Tienda.Infrastructure\\Tienda.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Tienda.Domain.csproj",
+        "projectName": "Tienda.Domain",
+        "projectPath": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Tienda.Domain.csproj",
         "packagesPath": "C:\\Users\\Keury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\4to - Cuatrimestre\\Programación 2\\Proyectos\\Tarea 5\\TechHeaven\\Tienda.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,98 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Tienda.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Tienda.Infrastructure.csproj",
+        "projectName": "Tienda.Infrastructure",
+        "projectPath": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Tienda.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Keury\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Keury\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Tienda.Domain.csproj": {
+                "projectPath": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Tienda.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
