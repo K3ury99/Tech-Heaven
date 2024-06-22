@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tienda.Infrastructure.Models
+namespace Tienda.Domain.Repository
 {
-    internal class CourseModel
+    internal class Nosequevaaqui
     {
     }
 }

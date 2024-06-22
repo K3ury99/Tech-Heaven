@@ -9,6 +9,6 @@ namespace Tienda.Domain.Entities
 {
     public class Cliente : Persona
     {
-        public string Direccion { get; set; } = string.Empty;
+        public string Cedula { get; set; } = string.Empty;
     }
 }

@@ -7,12 +7,10 @@ using Tienda.Domain.Core;
 
 namespace Tienda.Domain.Entities
 {
-    public class Producto : BaseEntity
+    public class Vendedor : BaseEntity
     {
         public string Nombre { get; set; } = string.Empty;
-        public string Descripcion { get; set; } = string.Empty;
-        public string Precio { get; set; } = string.Empty;
-        public string Stock { get; set; } = string.Empty;
-
+        public string Correo { get; set; } = string.Empty;
+        public string Telefono { get; set; } = string.Empty;
     }
 }

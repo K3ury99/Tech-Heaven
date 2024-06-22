@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tienda.Infrastructure.Models
 {
-    internal class DepartmentModel
+    public class Vendedor
     {
     }
 }
