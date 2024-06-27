@@ -3,7 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|c:\\users\\keury\\desktop\\tech-heaven\\techheaven\\tienda.infrastructure\\interfaces\\nosequevaaqui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FED17C5-9CB1-41AF-B9D0-7EFF872E9850}|Tienda.Web\\Tienda.Web.csproj|c:\\users\\keury\\desktop\\tech-heaven\\techheaven\\tienda.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FED17C5-9CB1-41AF-B9D0-7EFF872E9850}|Tienda.Web\\Tienda.Web.csproj|solutionrelative:tienda.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED17C5-9CB1-41AF-B9D0-7EFF872E9850}|Tienda.Web\\Tienda.Web.csproj|c:\\users\\keury\\desktop\\tech-heaven\\techheaven\\tienda.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED17C5-9CB1-41AF-B9D0-7EFF872E9850}|Tienda.Web\\Tienda.Web.csproj|solutionrelative:tienda.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|c:\\users\\keury\\desktop\\tech-heaven\\techheaven\\tienda.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|solutionrelative:tienda.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|solutionrelative:tienda.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.infrastructure\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.infrastructure\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.infrastructure\\interfaces\\nosequevaaqui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\interfaces\\nosequevaaqui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.infrastructure\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.infrastructure\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.infrastructure\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.infrastructure\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,20 +102,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Tienda.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Web\\Program.cs",
+              "RelativeToolTip": "Tienda.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:27:22.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Tienda.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Web\\appsettings.json",
+              "RelativeToolTip": "Tienda.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T23:26:06.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Tienda.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Tienda.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:19:22.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Tienda.Api\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Tienda.Api\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:19:21.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Tienda.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Tienda.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:15:24.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Nosequevaaqui.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Interfaces\\Nosequevaaqui.cs",
               "RelativeDocumentMoniker": "Tienda.Infrastructure\\Interfaces\\Nosequevaaqui.cs",
               "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Interfaces\\Nosequevaaqui.cs",
               "RelativeToolTip": "Tienda.Infrastructure\\Interfaces\\Nosequevaaqui.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T01:30:06.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Vendedor.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Models\\Vendedor.cs",
               "RelativeDocumentMoniker": "Tienda.Infrastructure\\Models\\Vendedor.cs",
@@ -103,11 +188,12 @@
               "RelativeToolTip": "Tienda.Infrastructure\\Models\\Vendedor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:29:30.249Z"
+              "WhenOpened": "2024-06-22T01:29:30.249Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Tienda.Infrastructure\\Models\\Cliente.cs",
@@ -115,11 +201,12 @@
               "RelativeToolTip": "Tienda.Infrastructure\\Models\\Cliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:29:14.305Z"
+              "WhenOpened": "2024-06-22T01:29:14.305Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "Tienda.Infrastructure\\Models\\Categoria.cs",
@@ -127,11 +214,12 @@
               "RelativeToolTip": "Tienda.Infrastructure\\Models\\Categoria.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:29:12.519Z"
+              "WhenOpened": "2024-06-22T01:29:12.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Sucursal.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Models\\Sucursal.cs",
               "RelativeDocumentMoniker": "Tienda.Infrastructure\\Models\\Sucursal.cs",
@@ -139,11 +227,12 @@
               "RelativeToolTip": "Tienda.Infrastructure\\Models\\Sucursal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:28:52.935Z"
+              "WhenOpened": "2024-06-22T01:28:52.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Orden.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Models\\Orden.cs",
               "RelativeDocumentMoniker": "Tienda.Infrastructure\\Models\\Orden.cs",
@@ -151,11 +240,12 @@
               "RelativeToolTip": "Tienda.Infrastructure\\Models\\Orden.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:28:34.089Z"
+              "WhenOpened": "2024-06-22T01:28:34.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "Tienda.Infrastructure\\Models\\Producto.cs",
@@ -163,11 +253,12 @@
               "RelativeToolTip": "Tienda.Infrastructure\\Models\\Producto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:28:18.545Z"
+              "WhenOpened": "2024-06-22T01:28:18.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Nosequevaaqui.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Repository\\Nosequevaaqui.cs",
               "RelativeDocumentMoniker": "Tienda.Domain\\Repository\\Nosequevaaqui.cs",
@@ -175,11 +266,12 @@
               "RelativeToolTip": "Tienda.Domain\\Repository\\Nosequevaaqui.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:27:28.626Z"
+              "WhenOpened": "2024-06-22T01:27:28.626Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Vendedor.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Entities\\Vendedor.cs",
               "RelativeDocumentMoniker": "Tienda.Domain\\Entities\\Vendedor.cs",
@@ -187,11 +279,12 @@
               "RelativeToolTip": "Tienda.Domain\\Entities\\Vendedor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:25:59.143Z"
+              "WhenOpened": "2024-06-22T01:25:59.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Sucursal.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Entities\\Sucursal.cs",
               "RelativeDocumentMoniker": "Tienda.Domain\\Entities\\Sucursal.cs",
@@ -199,11 +292,12 @@
               "RelativeToolTip": "Tienda.Domain\\Entities\\Sucursal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:24:24.83Z"
+              "WhenOpened": "2024-06-22T01:24:24.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Entities\\Producto.cs",
               "RelativeDocumentMoniker": "Tienda.Domain\\Entities\\Producto.cs",
@@ -211,11 +305,12 @@
               "RelativeToolTip": "Tienda.Domain\\Entities\\Producto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:23:19.814Z"
+              "WhenOpened": "2024-06-22T01:23:19.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Core\\Persona.cs",
               "RelativeDocumentMoniker": "Tienda.Domain\\Core\\Persona.cs",
@@ -223,11 +318,12 @@
               "RelativeToolTip": "Tienda.Domain\\Core\\Persona.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:22:40.898Z"
+              "WhenOpened": "2024-06-22T01:22:40.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Orden.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Entities\\Orden.cs",
               "RelativeDocumentMoniker": "Tienda.Domain\\Entities\\Orden.cs",
@@ -235,11 +331,12 @@
               "RelativeToolTip": "Tienda.Domain\\Entities\\Orden.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:20:05.902Z"
+              "WhenOpened": "2024-06-22T01:20:05.902Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "Tienda.Domain\\Entities\\Cliente.cs",
@@ -247,11 +344,12 @@
               "RelativeToolTip": "Tienda.Domain\\Entities\\Cliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:20:01.95Z"
+              "WhenOpened": "2024-06-22T01:20:01.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Entities\\Categoria.cs",
               "RelativeDocumentMoniker": "Tienda.Domain\\Entities\\Categoria.cs",
@@ -259,11 +357,12 @@
               "RelativeToolTip": "Tienda.Domain\\Entities\\Categoria.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T01:19:48.661Z"
+              "WhenOpened": "2024-06-22T01:19:48.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "TechHeavenRepository.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Core\\TechHeavenRepository.cs",
               "RelativeDocumentMoniker": "Tienda.Infrastructure\\Core\\TechHeavenRepository.cs",
@@ -271,7 +370,8 @@
               "RelativeToolTip": "Tienda.Infrastructure\\Core\\TechHeavenRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T16:44:41.634Z"
+              "WhenOpened": "2024-06-21T16:44:41.634Z",
+              "EditorCaption": ""
             }
           ]
         }
