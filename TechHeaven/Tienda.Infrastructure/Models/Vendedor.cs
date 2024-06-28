@@ -8,5 +8,9 @@ namespace Tienda.Infrastructure.Models
 {
     public class Vendedor
     {
+        public int id { get; set; }
+        public string Nombre { get; set; } = string.Empty;
+        public string Correo { get; set; } = string.Empty;
+        public string Telefono { get; set; } = string.Empty;
     }
 }

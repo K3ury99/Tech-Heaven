@@ -4,10 +4,10 @@ namespace Tienda.Domain.Repository
 {
     public interface ICustomerRepository
     {
-        Cliente GetCustomerById(int customerId);
-        Cliente GetCustomerByEmail(string email);
-        void AddCustomer(Cliente customer);
-        void UpdateCustomer(Cliente customer);
+        ClienteException GetCustomerById(int customerId);
+        ClienteException GetCustomerByEmail(string email);
+        void AddCustomer(ClienteException customer);
+        void UpdateCustomer(ClienteException customer);
         void DeleteCustomer(int customerId);
     }
 }

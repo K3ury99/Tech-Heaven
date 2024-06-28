@@ -8,5 +8,10 @@ namespace Tienda.Infrastructure.Models
 {
     public class Producto
     {
+        public int id { get; set; }
+        public string Nombre { get; set; } = string.Empty;
+        public string Descripcion { get; set; } = string.Empty;
+        public string Precio { get; set; } = string.Empty;
+        public string Stock { get; set; } = string.Empty;
     }
 }

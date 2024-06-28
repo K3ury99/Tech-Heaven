@@ -4,10 +4,10 @@ namespace Tienda.Domain.Repository
 {
     public interface IProductRepository
     {
-        Producto GetProductById(int productId);
-        IEnumerable<Producto> GetProductsByCategoryId(int categoryId);
-        void AddProduct(Producto product);
-        void UpdateProduct(Producto product);
+        ProductoException GetProductById(int productId);
+        IEnumerable<ProductoException> GetProductsByCategoryId(int categoryId);
+        void AddProduct(ProductoException product);
+        void UpdateProduct(ProductoException product);
         void DeleteProduct(int productId);
     }
 }

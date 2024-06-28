@@ -8,5 +8,7 @@ namespace Tienda.Infrastructure.Models
 {
     public class Cliente
     {
+        public int id { get; set; }
+        public string Cedula { get; set; } = string.Empty;
     }
 }
