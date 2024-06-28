@@ -18,8 +18,4 @@
     <ProjectReference Include="..\Tienda.Domain\Tienda.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Contracts\" />
-  </ItemGroup>
-
 </Project>

@@ -7,7 +7,7 @@ using Tienda.Domain.Core;
 
 namespace Tienda.Domain.Entities
 {
-    public class SucursalException : BaseEntity
+    public class SucursalException
     {
     }
 }

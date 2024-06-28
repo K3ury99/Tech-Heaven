@@ -7,7 +7,7 @@ using Tienda.Domain.Core;
 
 namespace Tienda.Domain.Entities
 {
-    public class ClienteException : Persona
+    public class ClienteException
     {
     }
 }

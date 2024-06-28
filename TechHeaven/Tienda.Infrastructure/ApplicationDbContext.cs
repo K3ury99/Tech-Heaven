@@ -1,9 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Tienda.Domain.Entities;
 
 namespace Tienda.Infrastructure
@@ -17,7 +12,7 @@ namespace Tienda.Infrastructure
 
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<Producto> Productos { get; set; }
-        public DbSet<Sucursal> sucursals { get; set; }
-        public DbSet<Vendedor> Vendedors { get; set; }
+        public DbSet<Sucursal> Sucursales { get; set; }
+        public DbSet<Vendedor> Vendedores { get; set; }
     }
 }

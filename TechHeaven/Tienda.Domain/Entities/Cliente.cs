@@ -7,8 +7,12 @@ using Tienda.Domain.Core;
 
 namespace Tienda.Domain.Entities
 {
-    public class Cliente : Persona
+    public class Cliente : BaseEntity
     {
+        public string Nombre { get; set; } = string.Empty;
+        public string Apellido { get; set; } = string.Empty;
+        public string Telefono { get; set; } = string.Empty;
+        public string Correo { get; set; } = string.Empty;
         public string Cedula { get; set; } = string.Empty;
     }
 }

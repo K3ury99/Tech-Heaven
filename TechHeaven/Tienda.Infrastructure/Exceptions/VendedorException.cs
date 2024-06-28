@@ -7,7 +7,7 @@ using Tienda.Domain.Core;
 
 namespace Tienda.Domain.Entities
 {
-    public class VendedorException : BaseEntity
+    public class VendedorException
     {
     }
 }

@@ -11,3 +11,8 @@ C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\ne
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.Infrastructure.pdb
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\ref\Tienda.Infrastructure.dll
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\bin\Debug\net8.0\Tienda.Infrastructure.runtimeconfig.json
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\bin\Debug\net8.0\Tienda.Domain.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\bin\Debug\net8.0\Tienda.Domain.pdb
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.I.5544573C.Up2Date
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.Infrastructure.genruntimeconfig.cache
