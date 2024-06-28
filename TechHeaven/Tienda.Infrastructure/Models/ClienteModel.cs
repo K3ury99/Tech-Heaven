@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tienda.Infrastructure.Models
 {
-    public class ClientModel
+    public class ClienteModel
     {
         public int id { get; set; }
         public string Cedula { get; set; } = string.Empty;
