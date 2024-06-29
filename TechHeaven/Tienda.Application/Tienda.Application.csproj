@@ -14,4 +14,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Tienda.Domain\Tienda.Domain.csproj" />
+    <ProjectReference Include="..\Tienda.Infrastructure\Tienda.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

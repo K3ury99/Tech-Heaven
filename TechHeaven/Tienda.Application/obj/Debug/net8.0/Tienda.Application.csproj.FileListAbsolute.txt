@@ -13,3 +13,9 @@ C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\bin\Debug\net8.0\Tienda.Application.runtimeconfig.json
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\Tienda.Application.csproj.AssemblyReference.cache
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\Tienda.Application.genruntimeconfig.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\bin\Debug\net8.0\Tienda.Domain.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\bin\Debug\net8.0\Tienda.Infrastructure.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\bin\Debug\net8.0\Tienda.Domain.pdb
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\bin\Debug\net8.0\Tienda.Infrastructure.pdb
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\Tienda.A.8EBB5F9B.Up2Date
