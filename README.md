@@ -1,7 +1,6 @@
 # TechHeaven 💻
 
-![image](https://github.com/K3ury99/Tech-Heaven/assets/128008789/10a1a5d2-3200-4b59-9e67-38c6319ea7c5)
-
+<img src="https://github.com/K3ury99/Tech-Heaven/assets/128008789/10a1a5d2-3200-4b59-9e67-38c6319ea7c5" width="49%"></img>
 
 ## `Description`
 TechHeaven is an e-commerce platform designed for the online sale of technology products. This solution follows a microservices architecture to promote scalability and efficient maintenance.
