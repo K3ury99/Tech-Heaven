@@ -10,3 +10,6 @@ C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\Tienda
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\refint\Tienda.Ioc.dll
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\Tienda.Ioc.pdb
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\ref\Tienda.Ioc.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\bin\Debug\net8.0\Tienda.Ioc.runtimeconfig.json
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\Tienda.Ioc.csproj.AssemblyReference.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Ioc\obj\Debug\net8.0\Tienda.Ioc.genruntimeconfig.cache

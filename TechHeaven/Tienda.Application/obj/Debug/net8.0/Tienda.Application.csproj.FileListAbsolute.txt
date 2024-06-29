@@ -10,3 +10,6 @@ C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\refint\Tienda.Application.dll
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\Tienda.Application.pdb
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\ref\Tienda.Application.dll
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\bin\Debug\net8.0\Tienda.Application.runtimeconfig.json
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\Tienda.Application.csproj.AssemblyReference.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Application\obj\Debug\net8.0\Tienda.Application.genruntimeconfig.cache

@@ -14,5 +14,6 @@ namespace Tienda.Domain.Entities
         public string Telefono { get; set; } = string.Empty;
         public string Correo { get; set; } = string.Empty;
         public string Cedula { get; set; } = string.Empty;
+        public virtual Sucursal? Sucursal { get; set; }
     }
 }

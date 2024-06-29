@@ -5,15 +5,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Tienda.Web.Models;
+using Tienda.Domain.Entities;
+using Tienda.Infrastructure;
 
 namespace Tienda.Web.Controllers
 {
     public class ClientesController : Controller
     {
-        private readonly TechHeavenContext _context;
+        private readonly ApplicationDbContext _context;
 
-        public ClientesController(TechHeavenContext context)
+        public ClientesController(ApplicationDbContext context)
         {
             _context = context;
         }
@@ -21,8 +22,7 @@ namespace Tienda.Web.Controllers
         // GET: Clientes
         public async Task<IActionResult> Index()
         {
-            var techHeavenContext = _context.Clientes.Include(c => c.Sucursal);
-            return View(await techHeavenContext.ToListAsync());
+            return View(await _context.Clientes.ToListAsync());
         }
 
         // GET: Clientes/Details/5
@@ -33,21 +33,19 @@ namespace Tienda.Web.Controllers
                 return NotFound();
             }
 
-            var clientes = await _context.Clientes
-                .Include(c => c.Sucursal)
+            var cliente = await _context.Clientes
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (clientes == null)
+            if (cliente == null)
             {
                 return NotFound();
             }
 
-            return View(clientes);
+            return View(cliente);
         }
 
         // GET: Clientes/Create
         public IActionResult Create()
         {
-            ViewData["SucursalId"] = new SelectList(_context.Sucursales, "Id", "Id");
             return View();
         }
 
@@ -56,16 +54,15 @@ namespace Tienda.Web.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Nombre,Telefono,Correo,Cedula,SucursalId")] Clientes clientes)
+        public async Task<IActionResult> Create([Bind("Nombre,Apellido,Telefono,Correo,Cedula,Id")] Cliente cliente)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(clientes);
+                _context.Add(cliente);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["SucursalId"] = new SelectList(_context.Sucursales, "Id", "Id", clientes.SucursalId);
-            return View(clientes);
+            return View(cliente);
         }
 
         // GET: Clientes/Edit/5
@@ -76,13 +73,12 @@ namespace Tienda.Web.Controllers
                 return NotFound();
             }
 
-            var clientes = await _context.Clientes.FindAsync(id);
-            if (clientes == null)
+            var cliente = await _context.Clientes.FindAsync(id);
+            if (cliente == null)
             {
                 return NotFound();
             }
-            ViewData["SucursalId"] = new SelectList(_context.Sucursales, "Id", "Id", clientes.SucursalId);
-            return View(clientes);
+            return View(cliente);
         }
 
         // POST: Clientes/Edit/5
@@ -90,9 +86,9 @@ namespace Tienda.Web.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Nombre,Telefono,Correo,Cedula,SucursalId")] Clientes clientes)
+        public async Task<IActionResult> Edit(int id, [Bind("Nombre,Apellido,Telefono,Correo,Cedula,Id")] Cliente cliente)
         {
-            if (id != clientes.Id)
+            if (id != cliente.Id)
             {
                 return NotFound();
             }
@@ -101,12 +97,12 @@ namespace Tienda.Web.Controllers
             {
                 try
                 {
-                    _context.Update(clientes);
+                    _context.Update(cliente);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ClientesExists(clientes.Id))
+                    if (!ClienteExists(cliente.Id))
                     {
                         return NotFound();
                     }
@@ -117,8 +113,7 @@ namespace Tienda.Web.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["SucursalId"] = new SelectList(_context.Sucursales, "Id", "Id", clientes.SucursalId);
-            return View(clientes);
+            return View(cliente);
         }
 
         // GET: Clientes/Delete/5
@@ -129,15 +124,14 @@ namespace Tienda.Web.Controllers
                 return NotFound();
             }
 
-            var clientes = await _context.Clientes
-                .Include(c => c.Sucursal)
+            var cliente = await _context.Clientes
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (clientes == null)
+            if (cliente == null)
             {
                 return NotFound();
             }
 
-            return View(clientes);
+            return View(cliente);
         }
 
         // POST: Clientes/Delete/5
@@ -145,17 +139,17 @@ namespace Tienda.Web.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var clientes = await _context.Clientes.FindAsync(id);
-            if (clientes != null)
+            var cliente = await _context.Clientes.FindAsync(id);
+            if (cliente != null)
             {
-                _context.Clientes.Remove(clientes);
+                _context.Clientes.Remove(cliente);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool ClientesExists(int id)
+        private bool ClienteExists(int id)
         {
             return _context.Clientes.Any(e => e.Id == id);
         }

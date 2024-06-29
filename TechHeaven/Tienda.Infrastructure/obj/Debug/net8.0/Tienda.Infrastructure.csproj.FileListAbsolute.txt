@@ -16,3 +16,4 @@ C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\bin\Debug\ne
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\bin\Debug\net8.0\Tienda.Domain.pdb
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.I.5544573C.Up2Date
 C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\obj\Debug\net8.0\Tienda.Infrastructure.genruntimeconfig.cache
+C:\Users\Keury\Desktop\Tech-Heaven\TechHeaven\Tienda.Infrastructure\bin\Debug\net8.0\appsettings.Development.json

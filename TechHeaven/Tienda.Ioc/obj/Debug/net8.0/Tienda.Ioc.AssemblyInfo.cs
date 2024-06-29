@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tienda.Ioc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ae08f08092f9b74ebd937e098c6f820eaaea9a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca5145b2674fc61d49f225b434d9131eb2f20383")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tienda.Ioc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tienda.Ioc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

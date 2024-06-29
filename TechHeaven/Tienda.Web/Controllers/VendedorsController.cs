@@ -5,26 +5,27 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Tienda.Web.Models;
+using Tienda.Domain.Entities;
+using Tienda.Infrastructure;
 
 namespace Tienda.Web.Controllers
 {
-    public class SucursalesController : Controller
+    public class VendedorsController : Controller
     {
-        private readonly TechHeavenContext _context;
+        private readonly ApplicationDbContext _context;
 
-        public SucursalesController(TechHeavenContext context)
+        public VendedorsController(ApplicationDbContext context)
         {
             _context = context;
         }
 
-        // GET: Sucursales
+        // GET: Vendedors
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Sucursales.ToListAsync());
+            return View(await _context.Vendedores.ToListAsync());
         }
 
-        // GET: Sucursales/Details/5
+        // GET: Vendedors/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -32,39 +33,39 @@ namespace Tienda.Web.Controllers
                 return NotFound();
             }
 
-            var sucursales = await _context.Sucursales
+            var vendedor = await _context.Vendedores
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (sucursales == null)
+            if (vendedor == null)
             {
                 return NotFound();
             }
 
-            return View(sucursales);
+            return View(vendedor);
         }
 
-        // GET: Sucursales/Create
+        // GET: Vendedors/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Sucursales/Create
+        // POST: Vendedors/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Nombre,Direccion,Telefono")] Sucursales sucursales)
+        public async Task<IActionResult> Create([Bind("Nombre,Correo,Telefono,Id")] Vendedor vendedor)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(sucursales);
+                _context.Add(vendedor);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(sucursales);
+            return View(vendedor);
         }
 
-        // GET: Sucursales/Edit/5
+        // GET: Vendedors/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -72,22 +73,22 @@ namespace Tienda.Web.Controllers
                 return NotFound();
             }
 
-            var sucursales = await _context.Sucursales.FindAsync(id);
-            if (sucursales == null)
+            var vendedor = await _context.Vendedores.FindAsync(id);
+            if (vendedor == null)
             {
                 return NotFound();
             }
-            return View(sucursales);
+            return View(vendedor);
         }
 
-        // POST: Sucursales/Edit/5
+        // POST: Vendedors/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Nombre,Direccion,Telefono")] Sucursales sucursales)
+        public async Task<IActionResult> Edit(int id, [Bind("Nombre,Correo,Telefono,Id")] Vendedor vendedor)
         {
-            if (id != sucursales.Id)
+            if (id != vendedor.Id)
             {
                 return NotFound();
             }
@@ -96,12 +97,12 @@ namespace Tienda.Web.Controllers
             {
                 try
                 {
-                    _context.Update(sucursales);
+                    _context.Update(vendedor);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!SucursalesExists(sucursales.Id))
+                    if (!VendedorExists(vendedor.Id))
                     {
                         return NotFound();
                     }
@@ -112,10 +113,10 @@ namespace Tienda.Web.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(sucursales);
+            return View(vendedor);
         }
 
-        // GET: Sucursales/Delete/5
+        // GET: Vendedors/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -123,34 +124,34 @@ namespace Tienda.Web.Controllers
                 return NotFound();
             }
 
-            var sucursales = await _context.Sucursales
+            var vendedor = await _context.Vendedores
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (sucursales == null)
+            if (vendedor == null)
             {
                 return NotFound();
             }
 
-            return View(sucursales);
+            return View(vendedor);
         }
 
-        // POST: Sucursales/Delete/5
+        // POST: Vendedors/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var sucursales = await _context.Sucursales.FindAsync(id);
-            if (sucursales != null)
+            var vendedor = await _context.Vendedores.FindAsync(id);
+            if (vendedor != null)
             {
-                _context.Sucursales.Remove(sucursales);
+                _context.Vendedores.Remove(vendedor);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool SucursalesExists(int id)
+        private bool VendedorExists(int id)
         {
-            return _context.Sucursales.Any(e => e.Id == id);
+            return _context.Vendedores.Any(e => e.Id == id);
         }
     }
 }
