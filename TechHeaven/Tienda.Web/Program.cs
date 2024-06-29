@@ -1,12 +1,12 @@
 using Microsoft.EntityFrameworkCore;
-using Tienda.Web.Models;
+using Tienda.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<TechHeavenContext>(options =>
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("conexion")));
 
 var app = builder.Build();
