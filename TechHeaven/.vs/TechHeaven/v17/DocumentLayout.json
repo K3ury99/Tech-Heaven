@@ -3,136 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\keury\\desktop\\tech-heaven\\techheaven\\tienda.application\\service\\vendedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\service\\vendedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|c:\\users\\keury\\desktop\\tech-heaven\\techheaven\\tienda.infrastructure\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\service\\sucursalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\service\\sucursalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.infrastructure\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\dtos\\vendedor\\updatevendedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\vendedor\\updatevendedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\dtos\\vendedor\\createvendedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\vendedor\\createvendedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\dtos\\vendedor\\basevendedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\vendedor\\basevendedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\dtos\\sucursal\\updatesucursaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\sucursal\\updatesucursaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\dtos\\sucursal\\createsucursaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\sucursal\\createsucursaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\dtos\\sucursal\\basesucursaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\sucursal\\basesucursaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\dtos\\producto\\updateproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\producto\\updateproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\dtos\\producto\\createproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\producto\\createproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\dtos\\producto\\baseproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\producto\\baseproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\dtos\\cliente\\updateclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\cliente\\updateclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\dtos\\cliente\\createclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\cliente\\createclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\dtos\\cliente\\baseclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\cliente\\baseclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\contract\\ivendedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\contract\\ivendedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\contract\\isucursalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\contract\\isucursalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\contract\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\contract\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\contract\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\contract\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\core\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\core\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.application\\core\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13DF2F48-E885-4579-9AF9-33ADDEBAFD02}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\core\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C006480A-53B1-4479-8E27-AD381B6CFE49}|Tienda.Domain\\Tienda.Domain.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C006480A-53B1-4479-8E27-AD381B6CFE49}|Tienda.Domain\\Tienda.Domain.csproj|solutionrelative:tienda.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C006480A-53B1-4479-8E27-AD381B6CFE49}|Tienda.Domain\\Tienda.Domain.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C006480A-53B1-4479-8E27-AD381B6CFE49}|Tienda.Domain\\Tienda.Domain.csproj|solutionrelative:tienda.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|solutionrelative:tienda.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C006480A-53B1-4479-8E27-AD381B6CFE49}|Tienda.Domain\\Tienda.Domain.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.domain\\entities\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C006480A-53B1-4479-8E27-AD381B6CFE49}|Tienda.Domain\\Tienda.Domain.csproj|solutionrelative:tienda.domain\\entities\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|solutionrelative:tienda.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.api\\controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|solutionrelative:tienda.api\\controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|solutionrelative:tienda.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.api\\controllers\\vendedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|solutionrelative:tienda.api\\controllers\\vendedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95847971-B4A4-4F72-9106-CDD41099F76F}|Tienda.Api\\Tienda.Api.csproj|solutionrelative:tienda.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.infrastructure\\migrations\\20240629011457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\migrations\\20240629011457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\tienda.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,400 +30,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseVendedorDto.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Vendedor\\BaseVendedorDto.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Dtos\\Vendedor\\BaseVendedorDto.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Vendedor\\BaseVendedorDto.cs",
-              "RelativeToolTip": "Tienda.Application\\Dtos\\Vendedor\\BaseVendedorDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Tienda.Infrastructure\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Tienda.Infrastructure\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:59:15.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateVendedorDto.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Vendedor\\CreateVendedorDto.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Dtos\\Vendedor\\CreateVendedorDto.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Vendedor\\CreateVendedorDto.cs",
-              "RelativeToolTip": "Tienda.Application\\Dtos\\Vendedor\\CreateVendedorDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:59:37.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateVendedorDto.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Vendedor\\UpdateVendedorDto.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Dtos\\Vendedor\\UpdateVendedorDto.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Vendedor\\UpdateVendedorDto.cs",
-              "RelativeToolTip": "Tienda.Application\\Dtos\\Vendedor\\UpdateVendedorDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T03:00:03.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClienteService.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Service\\ClienteService.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Service\\ClienteService.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Service\\ClienteService.cs",
-              "RelativeToolTip": "Tienda.Application\\Service\\ClienteService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:45:40.506Z"
+              "WhenOpened": "2024-07-01T22:10:58.589Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Service\\ProductoService.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Service\\ProductoService.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Service\\ProductoService.cs",
-              "RelativeToolTip": "Tienda.Application\\Service\\ProductoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Tienda.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Tienda.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:45:50.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SucursalService.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Service\\SucursalService.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Service\\SucursalService.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Service\\SucursalService.cs",
-              "RelativeToolTip": "Tienda.Application\\Service\\SucursalService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:46:02.733Z"
+              "WhenOpened": "2024-07-01T22:10:57.436Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VendedorService.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Service\\VendedorService.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Service\\VendedorService.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Service\\VendedorService.cs",
-              "RelativeToolTip": "Tienda.Application\\Service\\VendedorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:46:13.086Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Tienda.Infrastructure\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\appsettings.Development.json",
+              "RelativeToolTip": "Tienda.Infrastructure\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T22:10:56.299Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateSucursalDto.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Sucursal\\UpdateSucursalDto.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Dtos\\Sucursal\\UpdateSucursalDto.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Sucursal\\UpdateSucursalDto.cs",
-              "RelativeToolTip": "Tienda.Application\\Dtos\\Sucursal\\UpdateSucursalDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:58:58.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateSucursalDto.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Sucursal\\CreateSucursalDto.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Dtos\\Sucursal\\CreateSucursalDto.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Sucursal\\CreateSucursalDto.cs",
-              "RelativeToolTip": "Tienda.Application\\Dtos\\Sucursal\\CreateSucursalDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:58:25.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseSucursalDto.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Sucursal\\BaseSucursalDto.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Dtos\\Sucursal\\BaseSucursalDto.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Sucursal\\BaseSucursalDto.cs",
-              "RelativeToolTip": "Tienda.Application\\Dtos\\Sucursal\\BaseSucursalDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:58:04.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateProductoDto.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Producto\\UpdateProductoDto.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Dtos\\Producto\\UpdateProductoDto.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Producto\\UpdateProductoDto.cs",
-              "RelativeToolTip": "Tienda.Application\\Dtos\\Producto\\UpdateProductoDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:50:25.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateProductoDto.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Producto\\CreateProductoDto.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Dtos\\Producto\\CreateProductoDto.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Producto\\CreateProductoDto.cs",
-              "RelativeToolTip": "Tienda.Application\\Dtos\\Producto\\CreateProductoDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:50:22.756Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BaseProductoDto.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Producto\\BaseProductoDto.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Dtos\\Producto\\BaseProductoDto.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Producto\\BaseProductoDto.cs",
-              "RelativeToolTip": "Tienda.Application\\Dtos\\Producto\\BaseProductoDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:50:20.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UpdateClienteDto.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Cliente\\UpdateClienteDto.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Dtos\\Cliente\\UpdateClienteDto.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Cliente\\UpdateClienteDto.cs",
-              "RelativeToolTip": "Tienda.Application\\Dtos\\Cliente\\UpdateClienteDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:48:56.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CreateClienteDto.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Cliente\\CreateClienteDto.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Dtos\\Cliente\\CreateClienteDto.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Cliente\\CreateClienteDto.cs",
-              "RelativeToolTip": "Tienda.Application\\Dtos\\Cliente\\CreateClienteDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:48:36.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BaseClienteDto.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Cliente\\BaseClienteDto.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Dtos\\Cliente\\BaseClienteDto.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Dtos\\Cliente\\BaseClienteDto.cs",
-              "RelativeToolTip": "Tienda.Application\\Dtos\\Cliente\\BaseClienteDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:48:06.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IVendedorService.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Contract\\IVendedorService.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Contract\\IVendedorService.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Contract\\IVendedorService.cs",
-              "RelativeToolTip": "Tienda.Application\\Contract\\IVendedorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:43:38.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ISucursalService.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Contract\\ISucursalService.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Contract\\ISucursalService.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Contract\\ISucursalService.cs",
-              "RelativeToolTip": "Tienda.Application\\Contract\\ISucursalService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:43:26.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Contract\\IProductoService.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Contract\\IProductoService.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Contract\\IProductoService.cs",
-              "RelativeToolTip": "Tienda.Application\\Contract\\IProductoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:43:14.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IClienteService.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Contract\\IClienteService.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Contract\\IClienteService.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Contract\\IClienteService.cs",
-              "RelativeToolTip": "Tienda.Application\\Contract\\IClienteService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:43:02.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ServiceResult.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Core\\ServiceResult.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Core\\ServiceResult.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Core\\ServiceResult.cs",
-              "RelativeToolTip": "Tienda.Application\\Core\\ServiceResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:42:05.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IBaseService.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Core\\IBaseService.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Core\\IBaseService.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Core\\IBaseService.cs",
-              "RelativeToolTip": "Tienda.Application\\Core\\IBaseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:41:35.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BaseService.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Core\\BaseService.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\Core\\BaseService.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Application\\Core\\BaseService.cs",
-              "RelativeToolTip": "Tienda.Application\\Core\\BaseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:41:10.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Entities\\Producto.cs",
-              "RelativeDocumentMoniker": "Tienda.Domain\\Entities\\Producto.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Entities\\Producto.cs",
-              "RelativeToolTip": "Tienda.Domain\\Entities\\Producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:56:32.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Entities\\Cliente.cs",
-              "RelativeDocumentMoniker": "Tienda.Domain\\Entities\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Entities\\Cliente.cs",
-              "RelativeToolTip": "Tienda.Domain\\Entities\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:49:38.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "Tienda.Api\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\WeatherForecast.cs",
-              "RelativeToolTip": "Tienda.Api\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T02:26:34.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Sucursal.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Entities\\Sucursal.cs",
-              "RelativeDocumentMoniker": "Tienda.Domain\\Entities\\Sucursal.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Domain\\Entities\\Sucursal.cs",
-              "RelativeToolTip": "Tienda.Domain\\Entities\\Sucursal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:49:48.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Tienda.Api\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Tienda.Api\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:32:57.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "VendedoresController.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\VendedoresController.cs",
-              "RelativeDocumentMoniker": "Tienda.Api\\Controllers\\VendedoresController.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\VendedoresController.cs",
-              "RelativeToolTip": "Tienda.Api\\Controllers\\VendedoresController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:27:57.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "SucursalesController.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\SucursalesController.cs",
-              "RelativeDocumentMoniker": "Tienda.Api\\Controllers\\SucursalesController.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\SucursalesController.cs",
-              "RelativeToolTip": "Tienda.Api\\Controllers\\SucursalesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:27:30.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "Tienda.Api\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "Tienda.Api\\Controllers\\ProductosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:27:00.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Tienda.Api\\Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Api\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Tienda.Api\\Controllers\\ClientesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:26:16.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "20240629011457_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Migrations\\20240629011457_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Tienda.Infrastructure\\Migrations\\20240629011457_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\Migrations\\20240629011457_InitialCreate.cs",
-              "RelativeToolTip": "Tienda.Infrastructure\\Migrations\\20240629011457_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:14:57.832Z"
             }
           ]
         }
