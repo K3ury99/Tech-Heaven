@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FED17C5-9CB1-41AF-B9D0-7EFF872E9850}|Tienda.Web\\Tienda.Web.csproj|c:\\users\\keury\\desktop\\tech-heaven\\techheaven\\tienda.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FED17C5-9CB1-41AF-B9D0-7EFF872E9850}|Tienda.Web\\Tienda.Web.csproj|solutionrelative:tienda.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|c:\\users\\keury\\desktop\\tech-heaven\\techheaven\\tienda.infrastructure\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FD92FA88-37E5-4F28-A9FA-ED3871C8836A}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tienda.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tienda.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T22:55:45.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\ApplicationDbContextFactory.cs",
               "RelativeDocumentMoniker": "Tienda.Infrastructure\\ApplicationDbContextFactory.cs",
@@ -42,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Tienda.Infrastructure\\ApplicationDbContext.cs",
@@ -54,13 +71,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Tienda.Infrastructure\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\Keury\\Desktop\\Tech-Heaven\\TechHeaven\\Tienda.Infrastructure\\appsettings.Development.json",
               "RelativeToolTip": "Tienda.Infrastructure\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-01T22:10:56.299Z",
               "EditorCaption": ""
