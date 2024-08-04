@@ -1,0 +1,88 @@
+CREATE TechHeaven;
+
+Use TechHeaven;
+
+CREATE TABLE Sucursales (
+    id INT PRIMARY KEY IDENTITY(1,1),
+    Nombre NVARCHAR(100),
+    Direccion NVARCHAR(100),
+    Telefono NVARCHAR(20)
+);
+
+CREATE TABLE Clientes (
+    id INT PRIMARY KEY IDENTITY(1,1),
+    Nombre NVARCHAR(100) NOT NULL,
+    Telefono NVARCHAR(20) NOT NULL,
+    Correo NVARCHAR(100),
+    Cedula DECIMAL(10, 8),
+    SucursalID INT,
+    FOREIGN KEY (SucursalID) REFERENCES Sucursales(id)
+);
+
+CREATE TABLE Productos (
+    id INT PRIMARY KEY IDENTITY(1,1),
+    Nombre NVARCHAR(100) NOT NULL,
+    Descripcion NVARCHAR(255),
+    Precio DECIMAL(10, 2),
+    Stock INT
+);
+
+CREATE TABLE Vendedores (
+    id INT PRIMARY KEY IDENTITY(1,1),
+    Nombre NVARCHAR(100) NOT NULL,
+    Correo NVARCHAR(100),
+    Telefono NVARCHAR(20)
+);
+
+-- Insertar datos en la tabla Sucursales
+INSERT INTO Sucursales (Nombre, Direccion, Telefono) VALUES
+('Sucursal Centro', 'Calle Principal 123, Ciudad', '555-1234'),
+('Sucursal Norte', 'Avenida Norte 456, Ciudad', '555-5678'),
+('Sucursal Sur', 'Avenida Sur 789, Ciudad', '555-8765'),
+('Sucursal Este', 'Calle Este 101, Ciudad', '555-4321'),
+('Sucursal Oeste', 'Calle Oeste 202, Ciudad', '555-9876'),
+('Sucursal Central', 'Calle Central 303, Ciudad', '555-1111'),
+('Sucursal Metro', 'Calle Metro 404, Ciudad', '555-2222'),
+('Sucursal Plaza', 'Plaza Mayor 505, Ciudad', '555-3333'),
+('Sucursal River', 'Río Grande 606, Ciudad', '555-4444'),
+('Sucursal Hill', 'Colina Alta 707, Ciudad', '555-5555');
+
+INSERT INTO Clientes (Nombre, Apellido, Telefono, Correo, Cedula, SucursalID) VALUES
+('Juan', 'Pérez', '555-1111', 'juan.perez@example.com', 12345678, 1),
+('Ana', 'Gómez', '555-2222', 'ana.gomez@example.com', 23456789, 2),
+('Luis', 'Fernández', '555-3333', 'luis.fernandez@example.com', 34567890, 3),
+('María', 'López', '555-4444', 'maria.lopez@example.com', 45678901, 4),
+('Carlos', 'Rodríguez', '555-5555', 'carlos.rodriguez@example.com', 56789012, 5),
+('Laura', 'Martínez', '555-6666', 'laura.martinez@example.com', 67890123, 6),
+('Jorge', 'Castro', '555-7777', 'jorge.castro@example.com', 78901234, 7),
+('Sofía', 'Morales', '555-8888', 'sofia.morales@example.com', 89012345, 8),
+('Pedro', 'González', '555-9999', 'pedro.gonzalez@example.com', 90123456, 9),
+('Isabel', 'Ramírez', '555-0000', 'isabel.ramirez@example.com', 12345679, 10);
+
+
+-- Insertar datos en la tabla Productos
+INSERT INTO Productos (Nombre, Descripcion, Precio, Stock) VALUES
+('Zapato Deportivo', 'Zapato cómodo para actividades deportivas', 49.99, 100),
+('Zapato Casual', 'Zapato informal para uso diario', 39.99, 150),
+('Botas de Trabajo', 'Botas resistentes para trabajo pesado', 79.99, 80),
+('Sandalias Verano', 'Sandalias ligeras para el verano', 29.99, 200),
+('Zapato de Cuero', 'Zapato elegante de cuero', 89.99, 60),
+('Zapatillas Running', 'Zapatillas para correr', 59.99, 90),
+('Botines de Moda', 'Botines a la moda para ocasiones especiales', 69.99, 70),
+('Zapato Escolar', 'Zapato resistente para uso escolar', 34.99, 120),
+('Mocasines Casual', 'Mocasines cómodos y versátiles', 44.99, 110),
+('Zapatos de Noche', 'Zapatos elegantes para eventos nocturnos', 99.99, 50);
+
+-- Insertar datos en la tabla Vendedores
+INSERT INTO Vendedores (Nombre, Correo, Telefono) VALUES
+('Ricardo Salazar', 'ricardo.salazar@example.com', '555-1001'),
+('Elena Vargas', 'elena.vargas@example.com', '555-1002'),
+('Samuel Martínez', 'samuel.martinez@example.com', '555-1003'),
+('Claudia Romero', 'claudia.romero@example.com', '555-1004'),
+('Fernando Gómez', 'fernando.gomez@example.com', '555-1005'),
+('Verónica López', 'veronica.lopez@example.com', '555-1006'),
+('Andrés Morales', 'andres.morales@example.com', '555-1007'),
+('Carla Peña', 'carla.pena@example.com', '555-1008'),
+('Alejandro Ortega', 'alejandro.ortega@example.com', '555-1009'),
+('Natalia Jiménez', 'natalia.jimenez@example.com', '555-1010');
+
